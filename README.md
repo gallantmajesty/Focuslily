@@ -33,6 +33,11 @@ length you like — and let the room do the holding.
 
 On mobile, the timer keeps running even when you lock the screen.
 
+<div align="center">
+  <img src="assets/library-inside.png" alt="Inside the Focus Lily library hall — desks with studying avatars, the focus timer, and the mascot cat" width="100%">
+  <sub>Inside the hall — your desk, the timer, and the mascot</sub>
+</div>
+
 ## The Night Train
 
 Board a maroon express that rolls through snowy villages after dark. Set
@@ -96,8 +101,8 @@ Yes. It runs in any modern browser, and the timer keeps running when you
 lock the screen.
 
 **Do I have to talk to anyone?**
-No. Study-together rooms are quiet by design — heads-down co-presence,
-not conversation.
+No. The rooms are built for quiet company — you study heads-down beside
+people, and chat is there only if you want it.
 
 ## Links
 
